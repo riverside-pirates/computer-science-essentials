@@ -10,6 +10,7 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 * your psuedonym or username - _"your catch phrase"_
 
 ## 2nd Period Section
+* [Hunter S] _"Kon Knueppel MVP"_
 * [nick] _"my branch"_
 * [Jason] _"All Hail The Noble King"_
 
