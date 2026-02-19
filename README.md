@@ -9,7 +9,7 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 * [your psuedonym or username] _"your catch phrase"_
 
 ## 2nd Period Section
-* [your psuedonym or username] _"your catch phrase"_
+* [Hunter S] _"Kon Knueppel MVP"_
 
 ## 3rd Period Section
 * [your psuedonym or username] _"your catch phrase"_
