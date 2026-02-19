@@ -15,4 +15,5 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 * [Jason] _"All Hail The Noble King"_
 
 ## 4th Period Section
+* Jasper C (**Human** Teacher's Assistant) _"Sailing the high seas of piracy"_
 * your psuedonym or username - _"your catch phrase"_
