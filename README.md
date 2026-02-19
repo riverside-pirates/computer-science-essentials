@@ -6,6 +6,7 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 
 ## 1st Period Section
 * [your psuedonym or username] _"your catch phrase"_
+* [Hakeem Elijahwon]_"Blocked by Hakeem!"
 
 ## 2nd Period Section
 * [your psuedonym or username] _"your catch phrase"_
