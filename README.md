@@ -10,7 +10,7 @@ Hola its moshe
 * your psuedonym or username - _"your catch phrase"_
 
 ## 2nd Period Section
-* your psuedonym or username - _"your catch phrase"_
+* Moshe Stromberg - _"fear me"
 
 ## 4th Period Section
 * your psuedonym or username - _"your catch phrase"_
