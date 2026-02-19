@@ -16,4 +16,4 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 
 ## 4th Period Section
 * your psuedonym or username - _"your catch phrase"_
-[Liam C] _"Arr, Matey..."_
+* [Liam C] _"Arr, Matey..."_
