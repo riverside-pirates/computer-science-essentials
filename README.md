@@ -13,4 +13,3 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 * jackson a - _"i love that response, here's why"_
 
 ## 4th Period Section
-* name- _"quote"_
