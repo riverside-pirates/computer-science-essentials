@@ -6,7 +6,7 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 * Jasper C _"Sailing the high seas of piracy"_
 
 ## 1st Period Section
-* [Hunter Sullivan] _"Kon Knueppel MVP"_
+* [your psuedonym or username] _"your catch phrase"_
 
 ## 2nd Period Section
 * [your psuedonym or username] _"your catch phrase"_
