@@ -20,5 +20,6 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 * jackson a - _"i love that response, here's why"_
 
 ## 4th Period Section
+* Jasper C (**Human** Teacher's Assistant) _"Sailing the high seas of piracy"_
 * your psuedonym or username - _"your catch phrase"_
 * [Liam C] _"Arr, Matey..."_
