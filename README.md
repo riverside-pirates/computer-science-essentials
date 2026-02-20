@@ -17,6 +17,7 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 * [nick] _"my branch"_
 * [Jason] _"All Hail The Noble King"_
 * Moshe Stromberg - _"fear me"
+* jackson a - _"i love that response, here's why"_
 
 ## 4th Period Section
 * your psuedonym or username - _"your catch phrase"_
