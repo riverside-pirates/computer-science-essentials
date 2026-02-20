@@ -16,6 +16,7 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 * [Hunter S] _"Kon Knueppel MVP"_
 * [nick] _"my branch"_
 * [Jason] _"All Hail The Noble King"_
+* Moshe Stromberg - _"fear me"
 
 ## 4th Period Section
 * your psuedonym or username - _"your catch phrase"_
