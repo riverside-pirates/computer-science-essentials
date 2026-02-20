@@ -9,6 +9,7 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 ## 1st Period Section
 * [Wylie Winton] _"Roll, Pirates, Roll"_
 * [Jonathan] _"Pirates go!"_
+* [Sohan] _"go pirates"_
 
 ## 2nd Period Section
 * [Hunter S] _"Kon Knueppel MVP"_
