@@ -1,5 +1,5 @@
 # computer-science-essentials
-
+#First Period
 Here's the a list of everyone's pirate pseudonyms and catch phrase:
 
 * Mr. B (your teacher) _"ahoy there"_
