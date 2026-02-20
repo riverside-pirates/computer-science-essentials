@@ -10,6 +10,7 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 * [Wylie Winton] _"Roll, Pirates, Roll"_
 * [Jonathan] _"Pirates go!"_
 * [Sohan] _"go pirates"_
+* [connor]_"technoblade never dies"
 
 ## 2nd Period Section
 * [Hunter S] _"Kon Knueppel MVP"_
