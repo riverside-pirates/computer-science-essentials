@@ -40,7 +40,19 @@ PSPW,"I'm the youngest police officer on my force and I was brought in to revamp
 EDUC,"I'm a professor teaching chemistry at a university. My students are using AI to pass my essays. Some of the stuff I'm teaching can be very dangerous and I don’t know which ones actually understand the risk and I'm worried some of them could get hurt.",Mason
 EDUC,"I’m a principal who has a lack of employment at my school so we have to turn to online courses; they don’t teach students very well and are not personalized at all.",Mason
 EDUC,"I’m a principal at a high school and my students keep getting onto any Wi-Fi that we set up. This slows the Wi-Fi down and with them always finding the code I don’t know what to do.",Mason
-BSEL,"As a Lawyer, I have to make quick decisions based on the facts, but my process of doing this generates more confusion than conclusion","Sohan"
+TDMA,"Trouble creating more organic-feeling objects. It’s very easy to create manufactured-looking items, but if you want a more nature feel it is much more difficult to create something like that. Just for the reason that most tools involve you creating set object shapes with set values.","Curtis"
+TDMA,"Trouble with real-time collaboration, some sites offer multiple people to work on a document at once, but when they start editing things it is very difficult because of the delay between systems, this causes people to overwrite what someone just did, or just crash the website or app.","Curtis"
+TDMA,"Trying to create a plan for mass-manufacturing, the pieces need to be placed in certain orders but that is not communicated or catered to in 3D modeling software.","Curtis"
+TDMA,"Resolution problems with smaller computers, when you try to create more detailed objects on smaller computers it is much harder to create the objects.","Curtis"
+TDMA,"Representing different materials, a good amount of 3D modeling software is just not even stating what material your using, or the durability on which the material has.","Curtis"
+TDMA,"Problems with having correct units from the 3D design web or app into a web or app for 3D printing, or other versions, like laser cutting, this requires you to go through many different changes and measurements from the original 3D design just so it can be used in another app or interface.","Curtis"
+TDMA,"Designing larger scaled scenes or objects, when the object count or details get too high, the program crashes, the problem is that when you create a better program for it, you need a larger computer.","Curtis"
+TDMA,"Making animation with the 3D objects to simulate how they would actually work, so you can change the object accordingly.","Curtis"
+UMAS,"Problems with safety of civilians on the ground, if the drone or glider crashes, it could cause a good amount of damage to the population.","Curtis"
+UMAS,"Difficulty having passengers feeling safe, no one is piloting the plane, and AI makes mistakes all the time, and so does the network.","Curtis"
+UMAS,"Overall reactions of the pilot, the pilot knows what to do in many different situations, but the AI may only have a set number, not being able to improvise.","Curtis"
+ANSC,"Unlike machines or manufactured items, animals are all varied, so doctors or studies may have issues identifying a certain issue with an animal, since it hasn't been seen before.","Curtis"
+ANSC,"Animals aren't willing or have the ability to consent to be studied, leading to morality and ethical dilemmas involving animal testing.","Curtis"BSEL,"As a Lawyer, I have to make quick decisions based on the facts, but my process of doing this generates more confusion than conclusion","Sohan"
 ECON,"As a financial planner, I have to show my customers they are getting value out of my advice, but my predictions and charts are too confusing for the normal person","Sohan"
 PLWE,"As a Graphic designer, I have to make sure I capitalize on the big, eye catching details, but my style always focuses on the small things more than the big ones","Sohan"
 ECON,"As an entrepreneur, I have to make sure my ideas are original, but the process of verifying originality is highly unreliable and sometimes incorrect","Sohan"
