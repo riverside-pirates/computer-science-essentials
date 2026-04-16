@@ -20,6 +20,26 @@ SUAG,"I am a Sustainable Agricultural specialist who needs to ensure that the co
 BSEL,"I am a Business Ethics and Law specialist who needs to have paperwork ready on time, when I need it.","Jeremiah"
 ENTRE,"I am a business manager and need a quick and easy way to figure out what my employees have been working on.","Jeremiah"
 CARP,"I am a carpenter who needs to ensure the safety of my employees.","Jeremiah"
+HPCP,"As a sports medicine physician, I need to diagnose athletes quickly on the sideline, but without imaging or lab access, I'm often making critical calls blind.",Johnathan
+HPCP,"As a medical resident, I need to perform at a high level for my patients, but 80-hour work weeks are pushing me toward burnout before I even finish training.",Johnathan
+HPCP,"As a hospitalist, I need to give each patient a thorough evaluation, but back-to-back scheduling leaves me less than 10 minutes per visit.",Johnathan
+HPCP,"As a charge nurse, I need adequate staff to maintain safe patient ratios, but chronic understaffing means I'm regularly covering more patients than is safe.",Johnathan
+HPCP,"As a primary care doctor, I need to focus on patient care, but mandatory documentation consumes 3–4 hours of every shift before I can leave.",Johnathan
+HPCP,"As an ER nurse, I need patients to cooperate with their care plan, but non-compliant and aggressive patients make safe treatment nearly impossible.",Johnathan
+HPCP,"As an orthopedic surgeon, I need accurate handoffs between care teams, but inconsistent communication leads to missed medications and repeated procedures.",Johnathan
+HPCP,"As a family medicine doctor, I need to build a sustainable career, but six-figure student loan debt makes lower-paying but high-need specialties financially unviable.",Johnathan
+ANIM,"As a VFX artist, I need to iterate quickly on complex scenes, but render times stretching 8–12 hours kill my ability to meet same-day feedback deadlines.",Johnathan
+ANIM,"As a character rigger, I need my rigs to produce natural, fluid movement, but skinning errors cause mesh deformations that break animation and cost hours to fix.",Johnathan
+ANIM,"As a freelance 3D artist, I need to deliver polished work on client timelines, but scope creep and last-minute revision requests routinely blow past agreed deadlines.",Johnathan
+ANIM,"As a junior 3D artist, I need professional-grade tools to build my portfolio, but industry-standard software costs thousands of dollars I don't have.",Johnathan
+ANIM,"As an environment modeler, I need assets to transfer cleanly between software, but exports regularly corrupt materials, UVs, or scale.",Johnathan
+ANIM,"As a texture artist, I need UV maps that tile and bake cleanly, but seams and stretching keep resurfacing after what should be final approval.",Johnathan
+ANIM,"As a 3D animator, I need to sustain long production sprints at a workstation, but eye strain and wrist pain from repetitive mouse use are becoming chronic problems.",Johnathan
+ANSC,"As a livestock veterinarian, I need to contain disease outbreaks before they spread, but biosecurity protocols are inconsistently followed across multi-farm operations.",Johnathan
+ANSC,"As a farm manager, I need to keep feed costs predictable to plan my operation, but volatile commodity prices make budgeting from quarter to quarter nearly impossible.",Johnathan
+ANSC,"As an agricultural researcher, I need to conduct approved animal studies efficiently, but navigating IACUC compliance and regulatory paperwork adds months to project timelines.",Johnathan
+ANSC,"As a poultry scientist, I need effective tools to treat bacterial infections, but rising antibiotic resistance is making standard treatment protocols increasingly ineffective.",Johnathan
+ANSC,"As a farm manager, I need a reliable skilled workforce to run daily operations, but labor shortages mean critical tasks like feeding and monitoring often fall to undertrained staff.",Johnathan
 CARP,"As a Carpenter, I need to give my customers a fair price for their deck, but wood prices keep changing every week, making it hard to stick to the budget.","Connor"
 CARP,"As a Woodworker, I need to cut my pieces perfectly on the first try, but using old, dull tools makes my work look sloppy and wastes expensive wood.","Connor"
 CARP,"As a Cabinet Maker, I need to finish my installs on time, but waiting weeks for backordered hinges and handles stops me from getting paid.","Connor"
