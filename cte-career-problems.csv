@@ -71,6 +71,16 @@ ITIT,"As a network administrator, I need to maintain uptime, but unexpected hard
 ARCH,"As a construction project manager, I need to keep projects on schedule, but supply chain delays make timelines unpredictable.","Apollo"
 ARCH,"As an electrician, I need to install wiring safely, but inconsistent building plans create confusion on-site.","Apollo"
 ARCH,"As a carpenter, I need precise measurements for custom builds, but material warping affects accuracy after cutting.","Apollo"
+CMHC,"I need to be able to connect with people and understand them, but this can be difficult to do with people's mental issues.",Caleb
+EACH,"You need to be able to shape young children, but it can be hard with some problem children.",Caleb
+FONU,"You need to have a deep understanding of food's effects on your body, but there is lots of new information being discovered constantly.",Caleb
+MEMA,"You need to be able to fix machines whenever they malfunction, but it can be dangerous working with such powerful technology.",Caleb
+WOWO,"You need to be able to use the tools to do it well, but it can still hurt you really bad.",Caleb
+MMGT,"You need to be able to use many different marketing strategies to boost sales.",Caleb
+PRSM,"You need to be able to work people so that they buy stuff from you, but it can be hard to find people that want to buy.",Caleb
+ACCT,"You need to be able to understand the procedures and strategies, but there are lots of different events that can play out to add challenges to the job.",Caleb
+FNPL,"You need to be able to help people pick the smartest move with their money, but you need to know everything going on in the economy and stay up to date.",Caleb
+CARP,"You need to be able to use tools to fix up wood, but it can cause more damage than what it started with.",Caleb
 MASO,"I have to deal with confusing new technologies such as 3-D printing and modeling, which is difficult for me to understand (65% of StoneMasons are older than 45).",Mason
 MASO,"I have to worry about automated systems replacing my job and I don’t even know how these new systems work!",Mason
 WOWO,"I’m 65 and I’ve been in the field for 50 years. I have to deal with confusing new technologies such as laser cutters and CNC machines to cut parts, which is difficult for me to comprehend. (65% of woodworkers are older than 65)",Mason
