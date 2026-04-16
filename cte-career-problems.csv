@@ -30,6 +30,16 @@ ITIT,"As a network administrator, I need to maintain uptime, but unexpected hard
 ARCH,"As a construction project manager, I need to keep projects on schedule, but supply chain delays make timelines unpredictable.","Apollo"
 ARCH,"As an electrician, I need to install wiring safely, but inconsistent building plans create confusion on-site.","Apollo"
 ARCH,"As a carpenter, I need precise measurements for custom builds, but material warping affects accuracy after cutting.","Apollo"
+MASO,"I have to deal with confusing new technologies such as 3-D printing and modeling, which is difficult for me to understand (65% of StoneMasons are older than 45).",Mason
+MASO,"I have to worry about automated systems replacing my job and I don’t even know how these new systems work!",Mason
+WOWO,"I’m 65 and I’ve been in the field for 50 years. I have to deal with confusing new technologies such as laser cutters and CNC machines to cut parts, which is difficult for me to comprehend. (65% of woodworkers are older than 65)",Mason
+WOWO,"Clients come up to me asking if I can make something based on AI generated photos which are totally unrealistic and do not consider structural integrity and simple physics.",Mason
+WOWO,"I’m a new woodworker and I can’t survive in this industry which requires state of the art tools that can get up to 10s of thousands of dollars.",Mason
+PSPW,"I'm one of the oldest police officers on the force and I constantly have to deal with people reporting ransomware and other scams which I know nothing about.",Mason
+PSPW,"I'm the youngest police officer on my force and I was brought in to revamp security, but I am having difficulties because of privacy concerns.",Mason
+EDUC,"I'm a professor teaching chemistry at a university. My students are using AI to pass my essays. Some of the stuff I'm teaching can be very dangerous and I don’t know which ones actually understand the risk and I'm worried some of them could get hurt.",Mason
+EDUC,"I’m a principal who has a lack of employment at my school so we have to turn to online courses; they don’t teach students very well and are not personalized at all.",Mason
+EDUC,"I’m a principal at a high school and my students keep getting onto any Wi-Fi that we set up. This slows the Wi-Fi down and with them always finding the code I don’t know what to do.",Mason
 COLL,"As an auto body technician, I need to match paint colors precisely, but lighting differences between the shop and outdoor conditions make the final result look inconsistent.","Jasper"
 COLL,"As a collision estimator, I need to provide accurate repair quotes quickly, but hidden internal damage often isn’t visible until disassembly, causing delays and customer frustration.","Jasper"
 COLL,"As a refinishing specialist, I need paint to cure efficiently, but humidity and temperature fluctuations in the shop slow drying times unpredictably.","Jasper"
