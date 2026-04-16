@@ -40,6 +40,17 @@ ANSC,"As a farm manager, I need to keep feed costs predictable to plan my operat
 ANSC,"As an agricultural researcher, I need to conduct approved animal studies efficiently, but navigating IACUC compliance and regulatory paperwork adds months to project timelines.",Johnathan
 ANSC,"As a poultry scientist, I need effective tools to treat bacterial infections, but rising antibiotic resistance is making standard treatment protocols increasingly ineffective.",Johnathan
 ANSC,"As a farm manager, I need a reliable skilled workforce to run daily operations, but labor shortages mean critical tasks like feeding and monitoring often fall to undertrained staff.",Johnathan
+INDE,"As an interior designer, I struggle with showing my clients what the finished product would look like.",Nicholas
+INDE,"I struggle with giving fair quotes quickly.",Nicholas
+INDE,"I struggle with managing multiple projects and crews.",Nicholas
+COLL,"Working in collision repair, I struggle with sourcing parts in a timely manner.",Nicholas
+COLL,"Modern cars require sensors, cameras, and driver assistance technology, which takes longer to install and find.",Nicholas
+COLL,"I want an experienced crew, but I can’t find skilled workers.",Nicholas
+COLL,"Software systems are fragmented and hard to train new employees on.",Nicholas
+UMAS,"We want to make flights further and quicker, but we are limited by payload limits and battery life.",Nicholas
+UMAS,"We want our drones to be secure, but they’re easy to hack into and disrupt.",Nicholas
+UMAS,"The space is growing fast, and we keep overspending on new technology just for something better to release.",Nicholas
+UMAS,"Working in UMAS, I need to adjust drones to adapt to different climates and weather to endure longer flights.",Nicholas
 CARP,"As a Carpenter, I need to give my customers a fair price for their deck, but wood prices keep changing every week, making it hard to stick to the budget.","Connor"
 CARP,"As a Woodworker, I need to cut my pieces perfectly on the first try, but using old, dull tools makes my work look sloppy and wastes expensive wood.","Connor"
 CARP,"As a Cabinet Maker, I need to finish my installs on time, but waiting weeks for backordered hinges and handles stops me from getting paid.","Connor"
