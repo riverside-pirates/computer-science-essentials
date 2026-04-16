@@ -1,4 +1,14 @@
 job_code,problem_statement,contributed_by
+PMGT,"As a project manager, I need to communicate one assignment with multiple different groups, but each group interprets the information differently.",Jackson
+PMGT,"As a project manager, I need to distribute work evenly across the teams, but certain team members miss deadlines and push back in defiance.",Jackson
+PMGT,"As a project manager, I have to make sure my team finishes efficiently and on-time, but customs delays in other countries cause the hardware to not arrive on time.",Jackson
+PMGT,"As a project manager, I expect my team to show up when they are needed, but sometimes they cannot be reached or do not show up.",Jackson
+ANSC,"As an animal scientist, I need to go into the enclosures, but animals can be unpredictable and dangerous.",Jackson
+ANSC,"As an animal scientist, I need to keep data on how the animals interact with different environments and foods, but different animals of the same species may have different preferences.",Jackson
+ANSC,"As an animal scientist, I am expected to know what is wrong with an animal immediately, but sometimes figuring out what is wrong is very difficult and needs extra support from others.",Jackson
+PLUM,"As a plumber, I have to give customers free quotes to get enough business, but I have to add extra cost on to the final price due to this and it drives away many customers.",Jackson
+PLUM,"As a plumber, I need to repair damaged pipes, but the full extent of the damage is typically hidden behind walls or underground, making it difficult to evaluate the cost and materials that are needed.",Jackson
+PLUM,"As a plumber, I need to fix water flow though pipes, but many different issues may be present leading to multiple visits at a customers location.",Jackson
 ,"I am a rider in the Durham Transportation System. I need to easily figure out when my bus rides are, how much they are, and if they are reliable.","Jeremiah"
 HOTM,"A tourist destination hotel needs to figure out how to manage the influx of tourists over holidays and certain times of the year.","Jeremiah"
 CULA,"I am a food professional who needs to ensure that all my food I import is high quality and for consumption.","Jeremiah"
