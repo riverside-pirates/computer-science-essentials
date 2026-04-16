@@ -72,6 +72,16 @@ BSEL,"As an ethics consultant, I have to help businesses implement ethical polic
 PLWE,"As a computer science student, I have to solve various algorithmic problems that are very complex, but solutions are not immediate and usually require days of work","Sohan"
 PLWE,"As a 3D modelist, I have to make sure the dimensions of the 3D model are the exact same of the dimensions of the real product, but usually the real product has measurements like 1.6556 and causes a lot of trouble to recreate","Sohan"
 BSEL,"As a faculty member of the school, I have to be able to make sure my students understand the material, but my students never communicate with me in class or outside of class","Sohan"
+UMAS,"As a drone pilot for agricultural surveying, I need to collect accurate crop health data, but inconsistent GPS signals cause gaps in my mapping results.",Wylie
+UMAS,"As a drone delivery operator, I need to ensure safe package drop-offs, but moving obstacles can interfere with landing zones.",Wylie
+UMAS,"As a commercial drone pilot, I need to comply with FAA regulations, but constant changes in rules make it hard to stay compliant on every flight.",Wylie
+LAWJ,"As a police officer, I need to write detailed reports, but spending a long time doing paperwork reduces my time for patrol.",Wylie
+LAWJ,"As a public defender, I need to prepare strong cases for my clients, but overwhelming amounts of caseloads limit the time I can spend on each one.",Wylie
+LAWJ,"As a crime scene investigator, I need to preserve evidence and work with other people, but contamination risks increase when multiple teams are working at the same scene.",Wylie
+LAWJ,"As a judge, I need to remain impartial and focus solely on the facts of a case, but security threats and harassment can affect my thinking and decision making.",Wylie
+ECON,"As a stock analyst, I need to predict market trends, but outdated or incomplete data makes my predictions less reliable.",Wylie
+ECON,"As a financial advisor, I need to explain investment strategies to clients, but many struggle to understand risk concepts and long-term tradeoffs.",Wylie
+ECON,"As a small business consultant, I need to help businesses price their products competitively, but rapidly changing supply costs make pricing unstable.",Wylie
 COLL,"As an auto body technician, I need to match paint colors precisely, but lighting differences between the shop and outdoor conditions make the final result look inconsistent.","Jasper"
 COLL,"As a collision estimator, I need to provide accurate repair quotes quickly, but hidden internal damage often isn’t visible until disassembly, causing delays and customer frustration.","Jasper"
 COLL,"As a refinishing specialist, I need paint to cure efficiently, but humidity and temperature fluctuations in the shop slow drying times unpredictably.","Jasper"
