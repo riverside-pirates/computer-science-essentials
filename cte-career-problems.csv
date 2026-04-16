@@ -9,6 +9,16 @@ ANSC,"As an animal scientist, I am expected to know what is wrong with an animal
 PLUM,"As a plumber, I have to give customers free quotes to get enough business, but I have to add extra cost on to the final price due to this and it drives away many customers.",Jackson
 PLUM,"As a plumber, I need to repair damaged pipes, but the full extent of the damage is typically hidden behind walls or underground, making it difficult to evaluate the cost and materials that are needed.",Jackson
 PLUM,"As a plumber, I need to fix water flow though pipes, but many different issues may be present leading to multiple visits at a customers location.",Jackson
+COLL,"As an auto body technician, I need to match paint colors precisely, but lighting differences between the shop and outdoor conditions make the final result look inconsistent.","Jasper"
+COLL,"As a collision estimator, I need to provide accurate repair quotes quickly, but hidden internal damage often isn’t visible until disassembly, causing delays and customer frustration.","Jasper"
+COLL,"As a refinishing specialist, I need paint to cure efficiently, but humidity and temperature fluctuations in the shop slow drying times unpredictably.","Jasper"
+COLL,"As a repair technician, I need to source replacement parts quickly, but supply chain delays leave vehicles sitting in the shop for weeks.","Jasper"
+WELD,"As a structural welder, I need to ensure strong welds on thick materials, but inconsistent heat control leads to weak joints or warping.","Jasper"
+WELD,"As a fabrication shop welder, I need to meet tight deadlines, but rework from failed weld inspections slows down production.","Jasper"
+WELD,"As a pipeline welder, I need to work safely in outdoor environments, but unpredictable weather conditions affect weld quality and safety.","Jasper"
+CNEN,"As a network engineer, I need to quickly diagnose outages, but limited visibility across different systems makes it hard to pinpoint the root cause.","Jasper"
+CNEN,"As an IT support specialist, I need to explain network issues to non-technical employees, but technical jargon creates confusion and miscommunication.","Jasper"
+CNEN,"As a cybersecurity-focused network engineer, I need to keep systems secure, but constant new threats make it difficult to stay ahead without interrupting normal operations.","Jasper"
 ,"I am a rider in the Durham Transportation System. I need to easily figure out when my bus rides are, how much they are, and if they are reliable.","Jeremiah"
 HOTM,"A tourist destination hotel needs to figure out how to manage the influx of tourists over holidays and certain times of the year.","Jeremiah"
 CULA,"I am a food professional who needs to ensure that all my food I import is high quality and for consumption.","Jeremiah"
@@ -134,14 +144,4 @@ LAWJ,"As a judge, I need to remain impartial and focus solely on the facts of a 
 ECON,"As a stock analyst, I need to predict market trends, but outdated or incomplete data makes my predictions less reliable.",Wylie
 ECON,"As a financial advisor, I need to explain investment strategies to clients, but many struggle to understand risk concepts and long-term tradeoffs.",Wylie
 ECON,"As a small business consultant, I need to help businesses price their products competitively, but rapidly changing supply costs make pricing unstable.",Wylie
-COLL,"As an auto body technician, I need to match paint colors precisely, but lighting differences between the shop and outdoor conditions make the final result look inconsistent.","Jasper"
-COLL,"As a collision estimator, I need to provide accurate repair quotes quickly, but hidden internal damage often isn’t visible until disassembly, causing delays and customer frustration.","Jasper"
-COLL,"As a refinishing specialist, I need paint to cure efficiently, but humidity and temperature fluctuations in the shop slow drying times unpredictably.","Jasper"
-COLL,"As a repair technician, I need to source replacement parts quickly, but supply chain delays leave vehicles sitting in the shop for weeks.","Jasper"
-WELD,"As a structural welder, I need to ensure strong welds on thick materials, but inconsistent heat control leads to weak joints or warping.","Jasper"
-WELD,"As a fabrication shop welder, I need to meet tight deadlines, but rework from failed weld inspections slows down production.","Jasper"
-WELD,"As a pipeline welder, I need to work safely in outdoor environments, but unpredictable weather conditions affect weld quality and safety.","Jasper"
-CNEN,"As a network engineer, I need to quickly diagnose outages, but limited visibility across different systems makes it hard to pinpoint the root cause.","Jasper"
-CNEN,"As an IT support specialist, I need to explain network issues to non-technical employees, but technical jargon creates confusion and miscommunication.","Jasper"
-CNEN,"As a cybersecurity-focused network engineer, I need to keep systems secure, but constant new threats make it difficult to stay ahead without interrupting normal operations.","Jasper"
 
