@@ -1,0 +1,177 @@
+job_code,problem_statement,contributed_by
+PMGT,"As a project manager, I need to communicate one assignment with multiple different groups, but each group interprets the information differently.",Jackson
+PMGT,"As a project manager, I need to distribute work evenly across the teams, but certain team members miss deadlines and push back in defiance.",Jackson
+PMGT,"As a project manager, I have to make sure my team finishes efficiently and on-time, but customs delays in other countries cause the hardware to not arrive on time.",Jackson
+PMGT,"As a project manager, I expect my team to show up when they are needed, but sometimes they cannot be reached or do not show up.",Jackson
+ANSC,"As an animal scientist, I need to go into the enclosures, but animals can be unpredictable and dangerous.",Jackson
+ANSC,"As an animal scientist, I need to keep data on how the animals interact with different environments and foods, but different animals of the same species may have different preferences.",Jackson
+ANSC,"As an animal scientist, I am expected to know what is wrong with an animal immediately, but sometimes figuring out what is wrong is very difficult and needs extra support from others.",Jackson
+PLUM,"As a plumber, I have to give customers free quotes to get enough business, but I have to add extra cost on to the final price due to this and it drives away many customers.",Jackson
+PLUM,"As a plumber, I need to repair damaged pipes, but the full extent of the damage is typically hidden behind walls or underground, making it difficult to evaluate the cost and materials that are needed.",Jackson
+PLUM,"As a plumber, I need to fix water flow though pipes, but many different issues may be present leading to multiple visits at a customers location.",Jackson
+COLL,"As an auto body technician, I need to match paint colors precisely, but lighting differences between the shop and outdoor conditions make the final result look inconsistent.","Jasper"
+COLL,"As a collision estimator, I need to provide accurate repair quotes quickly, but hidden internal damage often isn’t visible until disassembly, causing delays and customer frustration.","Jasper"
+COLL,"As a refinishing specialist, I need paint to cure efficiently, but humidity and temperature fluctuations in the shop slow drying times unpredictably.","Jasper"
+COLL,"As a repair technician, I need to source replacement parts quickly, but supply chain delays leave vehicles sitting in the shop for weeks.","Jasper"
+WELD,"As a structural welder, I need to ensure strong welds on thick materials, but inconsistent heat control leads to weak joints or warping.","Jasper"
+WELD,"As a fabrication shop welder, I need to meet tight deadlines, but rework from failed weld inspections slows down production.","Jasper"
+WELD,"As a pipeline welder, I need to work safely in outdoor environments, but unpredictable weather conditions affect weld quality and safety.","Jasper"
+CNEN,"As a network engineer, I need to quickly diagnose outages, but limited visibility across different systems makes it hard to pinpoint the root cause.","Jasper"
+CNEN,"As an IT support specialist, I need to explain network issues to non-technical employees, but technical jargon creates confusion and miscommunication.","Jasper"
+CNEN,"As a cybersecurity-focused network engineer, I need to keep systems secure, but constant new threats make it difficult to stay ahead without interrupting normal operations.","Jasper"
+TETR,"As a teacher, I need to grade my student’s assignments quickly, but the programs (infinite campus…) don’t work too well.",Liam
+TETR,"As a teacher, I don’t have many resources to teach my students, but the government won’t give us much money to do so.",Liam
+,"As a race engineer, there is a safety fence at the Nurburgring, but the fences are not strong or high enough to stop every car that goes off track.",Liam
+GAAR,"As a game art designer, I’ve made a lot of files, but I lost track of them and cannot find them well.",Liam
+TDMA,"As a 3D modeler, I had to learn a 3D modeling software, but I have to use different softwares for different jobs.",Liam
+WOWO,"As a woodworker, I use many tools, but the tools I work with don’t have many safety features to prevent me from hurting myself or my business.",Liam
+WOWO,"As a woodworker, I get wood at companies with large warehouses, but the wood is not safely stacked and can fall on or hurt people.",Liam
+,"As a basketball player, I get fouled a lot, but the fouls can injure me.",Liam
+ACCT,"As an accountant, I need to review budgets very often, but the task is monotonous and annoying.",Liam
+WELD,"As a welder, I have people that take tours of my facility, but they don’t act as safe as we want them to.",Liam
+,"I am a rider in the Durham Transportation System. I need to easily figure out when my bus rides are, how much they are, and if they are reliable.","Jeremiah"
+HOTM,"A tourist destination hotel needs to figure out how to manage the influx of tourists over holidays and certain times of the year.","Jeremiah"
+CULA,"I am a food professional who needs to ensure that all my food I import is high quality and for consumption.","Jeremiah"
+CMHC,"I am a child mental health professional, and I need to get authentic feedback from children on how comfortable they are and how it can improve.","Jeremiah"
+FONU,"I am a food and nutrition specialist, and I am not able to get new information or applications for foods.","Jeremiah"
+ANSC,"I am an Animal Scientist that needs to make sure they are not mistreating or mishandling any of the animals being tested.","Jeremiah"
+PLSV,"I am a Plant System specialist who needs steady and readily available plant fertilizer, heat lamps, and light.","Jeremiah"
+SUAG,"I am a Sustainable Agricultural specialist who needs to ensure that the conditions of sustainability are met.","Jeremiah"
+BSEL,"I am a Business Ethics and Law specialist who needs to have paperwork ready on time, when I need it.","Jeremiah"
+ENTRE,"I am a business manager and need a quick and easy way to figure out what my employees have been working on.","Jeremiah"
+CARP,"I am a carpenter who needs to ensure the safety of my employees.","Jeremiah"
+CARP,"As a carpenter, I need my measurements to be on point, but my math isn't always right.","Tyler"
+CARP,"As a carpenter, I need a dust mask, but it’s often uncomfortable.","Tyler"
+CARP,"As a carpenter, I want my project to be strong, but it doesn't always look great to the eye.","Tyler"
+GAAR,"As a game designer, I need feedback, but sometimes it's hard to accept the feedback.","Tyler"
+GAAR,"As a game designer, I need to make a game like no other, but it’s hard to come up with new ideas.","Tyler"
+GAAR,"As a game designer, I need high quality graphics, but the deadlines sometimes don’t give me enough time.","Tyler"
+GAAR,"As a game designer, I need to make the game fun, fair and balanced, but I can’t make everybody happy.","Tyler"
+HPCP,"As a nurse, I need to watch multiple patients at once, but it’s hard when understaffed.","Tyler"
+HPCP,"As a medical assistant, I need my patients on time, but there are unexpected emergencies all the time.","Tyler"
+HPCP,"As a physical therapist, I need my patients to follow recovery plans, but many get off schedule.","Tyler"
+HPCP,"As a sports medicine physician, I need to diagnose athletes quickly on the sideline, but without imaging or lab access, I'm often making critical calls blind.",Johnathan
+HPCP,"As a medical resident, I need to perform at a high level for my patients, but 80-hour work weeks are pushing me toward burnout before I even finish training.",Johnathan
+HPCP,"As a hospitalist, I need to give each patient a thorough evaluation, but back-to-back scheduling leaves me less than 10 minutes per visit.",Johnathan
+HPCP,"As a charge nurse, I need adequate staff to maintain safe patient ratios, but chronic understaffing means I'm regularly covering more patients than is safe.",Johnathan
+HPCP,"As a primary care doctor, I need to focus on patient care, but mandatory documentation consumes 3–4 hours of every shift before I can leave.",Johnathan
+HPCP,"As an ER nurse, I need patients to cooperate with their care plan, but non-compliant and aggressive patients make safe treatment nearly impossible.",Johnathan
+HPCP,"As an orthopedic surgeon, I need accurate handoffs between care teams, but inconsistent communication leads to missed medications and repeated procedures.",Johnathan
+HPCP,"As a family medicine doctor, I need to build a sustainable career, but six-figure student loan debt makes lower-paying but high-need specialties financially unviable.",Johnathan
+ANIM,"As a VFX artist, I need to iterate quickly on complex scenes, but render times stretching 8–12 hours kill my ability to meet same-day feedback deadlines.",Johnathan
+ANIM,"As a character rigger, I need my rigs to produce natural, fluid movement, but skinning errors cause mesh deformations that break animation and cost hours to fix.",Johnathan
+ANIM,"As a freelance 3D artist, I need to deliver polished work on client timelines, but scope creep and last-minute revision requests routinely blow past agreed deadlines.",Johnathan
+ANIM,"As a junior 3D artist, I need professional-grade tools to build my portfolio, but industry-standard software costs thousands of dollars I don't have.",Johnathan
+ANIM,"As an environment modeler, I need assets to transfer cleanly between software, but exports regularly corrupt materials, UVs, or scale.",Johnathan
+ANIM,"As a texture artist, I need UV maps that tile and bake cleanly, but seams and stretching keep resurfacing after what should be final approval.",Johnathan
+ANIM,"As a 3D animator, I need to sustain long production sprints at a workstation, but eye strain and wrist pain from repetitive mouse use are becoming chronic problems.",Johnathan
+ANSC,"As a livestock veterinarian, I need to contain disease outbreaks before they spread, but biosecurity protocols are inconsistently followed across multi-farm operations.",Johnathan
+ANSC,"As a farm manager, I need to keep feed costs predictable to plan my operation, but volatile commodity prices make budgeting from quarter to quarter nearly impossible.",Johnathan
+ANSC,"As an agricultural researcher, I need to conduct approved animal studies efficiently, but navigating IACUC compliance and regulatory paperwork adds months to project timelines.",Johnathan
+ANSC,"As a poultry scientist, I need effective tools to treat bacterial infections, but rising antibiotic resistance is making standard treatment protocols increasingly ineffective.",Johnathan
+ANSC,"As a farm manager, I need a reliable skilled workforce to run daily operations, but labor shortages mean critical tasks like feeding and monitoring often fall to undertrained staff.",Johnathan
+INDE,"As an interior designer, I struggle with showing my clients what the finished product would look like.",Nicholas
+INDE,"I struggle with giving fair quotes quickly.",Nicholas
+INDE,"I struggle with managing multiple projects and crews.",Nicholas
+COLL,"Working in collision repair, I struggle with sourcing parts in a timely manner.",Nicholas
+COLL,"Modern cars require sensors, cameras, and driver assistance technology, which takes longer to install and find.",Nicholas
+COLL,"I want an experienced crew, but I can’t find skilled workers.",Nicholas
+COLL,"Software systems are fragmented and hard to train new employees on.",Nicholas
+UMAS,"We want to make flights further and quicker, but we are limited by payload limits and battery life.",Nicholas
+UMAS,"We want our drones to be secure, but they’re easy to hack into and disrupt.",Nicholas
+UMAS,"The space is growing fast, and we keep overspending on new technology just for something better to release.",Nicholas
+UMAS,"Working in UMAS, I need to adjust drones to adapt to different climates and weather to endure longer flights.",Nicholas
+CARP,"As a Carpenter, I need to give my customers a fair price for their deck, but wood prices keep changing every week, making it hard to stick to the budget.","Connor"
+CARP,"As a Woodworker, I need to cut my pieces perfectly on the first try, but using old, dull tools makes my work look sloppy and wastes expensive wood.","Connor"
+CARP,"As a Cabinet Maker, I need to finish my installs on time, but waiting weeks for backordered hinges and handles stops me from getting paid.","Connor"
+PSPW,"As a Firefighter, I need to know exactly where people are inside a burning house, but thick smoke makes it impossible to see and my thermal camera just ran out of battery.","Connor"
+PSPW,"As a Police Officer, I need to talk to my team during a crisis, but our old radios don't work inside big concrete buildings or basements.","Connor"
+PSPW,"As an EMT, I need to get a patient to the hospital fast, but heavy afternoon traffic won't pull over, and I'm losing ""golden hour"" treatment time.","Connor"
+SUAG,"As a Small Farmer, I need to stop using chemicals on my crops, but the weeds grow so fast that I can’t keep up with them by hand.","Connor"
+SUAG,"As a Rancher, I need to move my cows to fresh grass every day, but it takes too much time and money to move all the heavy fencing.","Connor"
+SUAG,"As a Vegetable Grower, I need to save water during a drought, but setting up a new drip irrigation system costs more money than I made all last year.","Connor"
+SUAG,"As a Backyard Gardener, I need to grow my own food without using bug spray, but the aphids are eating all my kale before I even get a chance to harvest it.","Connor"
+HSHS,"As an emergency room nurse, I need to triage patients quickly, but incomplete patient histories slow down critical decisions.","Apollo"
+HSHS,"As a medical lab technician, I need to process test samples efficiently, but outdated equipment causes frequent delays and retesting.","Apollo"
+HSHS,"As a home health aide, I need to track patient medication schedules, but inconsistent communication from multiple doctors leads to confusion.","Apollo"
+HSHS,"As a radiologic technologist, I need to capture clear diagnostic images, but patients often move due to discomfort, reducing image quality.","Apollo"
+ITIT,"As a cybersecurity analyst, I need to identify threats in real time, but the volume of alerts creates noise that hides serious risks.","Apollo"
+ITIT,"As a software developer, I need to fix bugs quickly, but poorly documented legacy code makes troubleshooting slow and frustrating.","Apollo"
+ITIT,"As a network administrator, I need to maintain uptime, but unexpected hardware failures happen without early warning signs.","Apollo"
+ARCH,"As a construction project manager, I need to keep projects on schedule, but supply chain delays make timelines unpredictable.","Apollo"
+ARCH,"As an electrician, I need to install wiring safely, but inconsistent building plans create confusion on-site.","Apollo"
+ARCH,"As a carpenter, I need precise measurements for custom builds, but material warping affects accuracy after cutting.","Apollo"
+CMHC,"I need to be able to connect with people and understand them, but this can be difficult to do with people's mental issues.",Caleb
+EACH,"You need to be able to shape young children, but it can be hard with some problem children.",Caleb
+FONU,"You need to have a deep understanding of food's effects on your body, but there is lots of new information being discovered constantly.",Caleb
+MEMA,"You need to be able to fix machines whenever they malfunction, but it can be dangerous working with such powerful technology.",Caleb
+WOWO,"You need to be able to use the tools to do it well, but it can still hurt you really bad.",Caleb
+MMGT,"You need to be able to use many different marketing strategies to boost sales.",Caleb
+PRSM,"You need to be able to work people so that they buy stuff from you, but it can be hard to find people that want to buy.",Caleb
+ACCT,"You need to be able to understand the procedures and strategies, but there are lots of different events that can play out to add challenges to the job.",Caleb
+FNPL,"You need to be able to help people pick the smartest move with their money, but you need to know everything going on in the economy and stay up to date.",Caleb
+CARP,"You need to be able to use tools to fix up wood, but it can cause more damage than what it started with.",Caleb
+MASO,"I have to deal with confusing new technologies such as 3-D printing and modeling, which is difficult for me to understand (65% of StoneMasons are older than 45).",Mason
+MASO,"I have to worry about automated systems replacing my job and I don’t even know how these new systems work!",Mason
+WOWO,"I’m 65 and I’ve been in the field for 50 years. I have to deal with confusing new technologies such as laser cutters and CNC machines to cut parts, which is difficult for me to comprehend. (65% of woodworkers are older than 65)",Mason
+WOWO,"Clients come up to me asking if I can make something based on AI generated photos which are totally unrealistic and do not consider structural integrity and simple physics.",Mason
+WOWO,"I’m a new woodworker and I can’t survive in this industry which requires state of the art tools that can get up to 10s of thousands of dollars.",Mason
+PSPW,"I'm one of the oldest police officers on the force and I constantly have to deal with people reporting ransomware and other scams which I know nothing about.",Mason
+PSPW,"I'm the youngest police officer on my force and I was brought in to revamp security, but I am having difficulties because of privacy concerns.",Mason
+EDUC,"I'm a professor teaching chemistry at a university. My students are using AI to pass my essays. Some of the stuff I'm teaching can be very dangerous and I don’t know which ones actually understand the risk and I'm worried some of them could get hurt.",Mason
+EDUC,"I’m a principal who has a lack of employment at my school so we have to turn to online courses; they don’t teach students very well and are not personalized at all.",Mason
+EDUC,"I’m a principal at a high school and my students keep getting onto any Wi-Fi that we set up. This slows the Wi-Fi down and with them always finding the code I don’t know what to do.",Mason
+TDMA,"Trouble creating more organic-feeling objects. It’s very easy to create manufactured-looking items, but if you want a more nature feel it is much more difficult to create something like that. Just for the reason that most tools involve you creating set object shapes with set values.","Curtis"
+TDMA,"Trouble with real-time collaboration, some sites offer multiple people to work on a document at once, but when they start editing things it is very difficult because of the delay between systems, this causes people to overwrite what someone just did, or just crash the website or app.","Curtis"
+TDMA,"Trying to create a plan for mass-manufacturing, the pieces need to be placed in certain orders but that is not communicated or catered to in 3D modeling software.","Curtis"
+TDMA,"Resolution problems with smaller computers, when you try to create more detailed objects on smaller computers it is much harder to create the objects.","Curtis"
+TDMA,"Representing different materials, a good amount of 3D modeling software is just not even stating what material your using, or the durability on which the material has.","Curtis"
+TDMA,"Problems with having correct units from the 3D design web or app into a web or app for 3D printing, or other versions, like laser cutting, this requires you to go through many different changes and measurements from the original 3D design just so it can be used in another app or interface.","Curtis"
+TDMA,"Designing larger scaled scenes or objects, when the object count or details get too high, the program crashes, the problem is that when you create a better program for it, you need a larger computer.","Curtis"
+TDMA,"Making animation with the 3D objects to simulate how they would actually work, so you can change the object accordingly.","Curtis"
+UMAS,"Problems with safety of civilians on the ground, if the drone or glider crashes, it could cause a good amount of damage to the population.","Curtis"
+UMAS,"Difficulty having passengers feeling safe, no one is piloting the plane, and AI makes mistakes all the time, and so does the network.","Curtis"
+UMAS,"Overall reactions of the pilot, the pilot knows what to do in many different situations, but the AI may only have a set number, not being able to improvise.","Curtis"
+ANSC,"Unlike machines or manufactured items, animals are all varied, so doctors or studies may have issues identifying a certain issue with an animal, since it hasn't been seen before.","Curtis"
+ANSC,"Animals aren't willing or have the ability to consent to be studied, leading to morality and ethical dilemmas involving animal testing.","Curtis"
+PSPW,"As a public safety officer, I need to ensure safety for my citizens, however a traffic light has gone out and is posing as a safety threat to the roads","Max"
+PSPW,"As a public safety officer, I need to ensure my citizens safety, however an influx of break-ins have shown a threat to public safety","Max"
+PSPW,"As a public safety officer, I need to ensure safety for my citizens, however a loose manhole cover is being a threat to the safety of drivers","Max"
+PSPW,"As a public safety officer, I need to ensure safety for my citizens, however a construction site is not properly following safety regulations","Max"
+WELD,"As a welder, I need proper protection from the light emitted, however my current protection does not meet the standards","Max"
+WELD,"As a welder, I need the proper equipment to finish a project, however my current equipment is not able to complete this task","Max"
+WELD,"As a welder, I need to be able to get clear instructions as to what I need to do, however my current system is not clear or easy to navigate","Max"
+WELD,"As a welder, I need to ensure safety for the people around me, however they have not been following safety protocols","Max"
+ACCT,"As an accountant I need a way to get information from my coworkers, however my current system does not work very well","Max"
+ACCT,"As an accountant I need to be able to send out information to my coworkers, however I am not currently able to because I don’t have all of the information","Max"
+BSEL,"As a Lawyer, I have to make quick decisions based on the facts, but my process of doing this generates more confusion than conclusion","Sohan"
+ECON,"As a financial planner, I have to show my customers they are getting value out of my advice, but my predictions and charts are too confusing for the normal person","Sohan"
+PLWE,"As a Graphic designer, I have to make sure I capitalize on the big, eye catching details, but my style always focuses on the small things more than the big ones","Sohan"
+ECON,"As an entrepreneur, I have to make sure my ideas are original, but the process of verifying originality is highly unreliable and sometimes incorrect","Sohan"
+PLWE,"As a mechanical engineer, I have to make sure my dimensions are correct and that everything will be assembled correctly, but my computers cannot verify the assemblability of my products","Sohan"
+PLWE,"As an architect, I have to make sure the right materials are used for the correct structures, but my materials to parts list is highly unorganized, clustered, and uneasy to read","Sohan"
+PLWE,"As an Aerospace engineer, I have to solve hard equations involving the flyability and success of planes, but my methods always come up to dead ends and I don’t know if I am wrong or right","Sohan"
+BSEL,"As a small business proceduralist, I have to create growth charts and expected revenue equations, but the owners of the business cannot comprehend the charts due to confusing language","Sohan"
+PLWE,"As a robotics professor, I have to communicate abstract ideas to children, but they are not old enough to comprehend these","Sohan"
+BSEL,"As a Business ethicalist, I have to make sure 100% of our products do not use illegal labor or illegal materials, but the process of ensuring so is difficult and sometimes gets which products aren’t legal wrong","Sohan"
+ECON,"As an investment banker, I have to analyze which businesses are most likely to blow up, but not all businesses that could blow up are included, and some that are not on my list blow up","Sohan"
+ECON,"As an environmental economist, I have to analyze the potential economic impacts of environmental technology, but my charts and graphs give mixed results and multiple numbers, which leads to confusion when quantifying data","Sohan"
+PLWE,"As a data scientist, I have to make sure there are no mistakes in records, but the process of communicating data from one person to another is like telephone: you don’t know if the message got misinterpreted on the way","Sohan"
+ECON,"As a consultant, I have to provide insights for long-term planning, but my terminology is all out of wack, confusing, and wrong","Sohan"
+ECON,"As a policy advisor, I have to create, manage, and change business policies to adhere to the values of the business, but changes in leadership often lead to changes in policies, and I don’t know which policies are being followed or abolished","Sohan"
+BSEL,"As a compliance officer, I have to make sure everyone is following the law when conducting business, but most businesses give vague answers like “We neither can confirm nor deny …” in their statements","Sohan"
+BSEL,"As an ethics consultant, I have to help businesses implement ethical policies and procedures, but I cannot confirm if the business on the other side actually follows through with my advice","Sohan"
+PLWE,"As a computer science student, I have to solve various algorithmic problems that are very complex, but solutions are not immediate and usually require days of work","Sohan"
+PLWE,"As a 3D modelist, I have to make sure the dimensions of the 3D model are the exact same of the dimensions of the real product, but usually the real product has measurements like 1.6556 and causes a lot of trouble to recreate","Sohan"
+BSEL,"As a faculty member of the school, I have to be able to make sure my students understand the material, but my students never communicate with me in class or outside of class","Sohan"
+UMAS,"As a drone pilot for agricultural surveying, I need to collect accurate crop health data, but inconsistent GPS signals cause gaps in my mapping results.",Wylie
+UMAS,"As a drone delivery operator, I need to ensure safe package drop-offs, but moving obstacles can interfere with landing zones.",Wylie
+UMAS,"As a commercial drone pilot, I need to comply with FAA regulations, but constant changes in rules make it hard to stay compliant on every flight.",Wylie
+LAWJ,"As a police officer, I need to write detailed reports, but spending a long time doing paperwork reduces my time for patrol.",Wylie
+LAWJ,"As a public defender, I need to prepare strong cases for my clients, but overwhelming amounts of caseloads limit the time I can spend on each one.",Wylie
+LAWJ,"As a crime scene investigator, I need to preserve evidence and work with other people, but contamination risks increase when multiple teams are working at the same scene.",Wylie
+LAWJ,"As a judge, I need to remain impartial and focus solely on the facts of a case, but security threats and harassment can affect my thinking and decision making.",Wylie
+ECON,"As a stock analyst, I need to predict market trends, but outdated or incomplete data makes my predictions less reliable.",Wylie
+ECON,"As a financial advisor, I need to explain investment strategies to clients, but many struggle to understand risk concepts and long-term tradeoffs.",Wylie
+ECON,"As a small business consultant, I need to help businesses price their products competitively, but rapidly changing supply costs make pricing unstable.",Wylie
+
