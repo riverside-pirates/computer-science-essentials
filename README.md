@@ -1,5 +1,13 @@
 # computer-science-essentials
 
+> 🏴‍☠️ **Your assignments** are on
+> [classroom50.org](https://classroom50.org/riverside-pirates/computer-science-essentials).
+> Sign in with GitHub to see and accept them. Not in the class yet? Ask Mr. B
+> to add you. GitHub then emails you an invitation to join
+> **riverside-pirates**. Accept it, then come back here.
+>
+> 🧭 Stuck on setup or a tool? See the [student guides](guides/).
+
 Here's the a list of everyone's pirate pseudonyms and catch phrase:
 
 * Mr. B (your teacher) _"ahoy there"_
