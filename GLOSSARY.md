@@ -142,7 +142,7 @@ computer system
 : a group of computing devices and programs working together for a common purpose
 
 concatenation
-: a joining together of separate items—without changing them—into one place. For example, the concatenation of two strings such as "Hello" and "world!" would return "Hello world!"
+: a joining together of separate items—without changing them—into one place. For example, the concatenation of two strings such as "Hello " (with a space) and "world!" would return "Hello world!"
 
 conditional expression
 : a comparison, usually in a while or if statement, that evaluates to a Boolean value of true or false
@@ -394,7 +394,7 @@ parameter
 : a special kind of variable defined in a function to receive specific information. "Parameter" and "argument" are often used interchangeably. In this course, we will use the term "argument."
 
 pi
-: the ratio of a circle's circumference to its diameter: 3.14
+: the ratio of a circle's circumference to its diameter, about 3.14
 
 PLTW Developer's Journal
 : a physical location where you can document, store, draft, and reference your development process. Artifacts you might capture in your PLTW Developer's Journal include new vocabulary, new functions, pseudocode, flowcharts, project planning notes, and brainstorming ideas.
@@ -448,7 +448,7 @@ Python prompt
 : a visual cue in the Python shell that tells you where you type instructions into the interpreter
 
 Python shell
-: the window where you type and test code all in one place. Python shell, bash, and interactive interpreter window are all used interchangeably.
+: the window where you type and test Python code one line at a time. Also called the Python interactive interpreter. It isn't the same as bash, which is a shell for running computer commands, not Python.
 
 radius
 : the distance from the center point of a circle to the edge of that circle
@@ -457,7 +457,7 @@ range loop/function
 : a function that identifies a number to start at, a number to stop at, and a step value to determine how much to increment or decrement each time the loop executes. The function will loop as many times as necessary until it gets to the end value.
 
 relational operators
-: used to test the relationship between two variables, expressions, or values. A comparison using a relational operator evaluates to a Boolean value. For example, a == b evaluates to true if a and b are equal; otherwise, it evaluates to false. Operators include the following: ==, !=, >, <, >=, and >=.
+: used to test the relationship between two variables, expressions, or values. A comparison using a relational operator evaluates to a Boolean value. For example, a == b evaluates to true if a and b are equal; otherwise, it evaluates to false. Operators include the following: ==, !=, >, <, >=, and <=.
 
 rendering
 : the process of displaying visual content using computer hardware; gathering data through templates to send and display to a user
@@ -478,7 +478,7 @@ Scrum Master
 : the person responsible for making a development process run smoothly, removing obstacles that impact productivity, and organizing and facilitating the critical team meetings
 
 Scrum poker
-: a technique to determine the priority of items in a backlog. It is a planning tool used to estimate the time and value of tasks and avoid anchoring.
+: a team technique for estimating how much effort a backlog item will take. Everyone picks an estimate card privately, then all reveal at once, which avoids anchoring on the first number said aloud.
 
 secondary source
 : a source of material that takes existing work and presents some parts, such as a summary, as their interpretation of the original work and provides citations of referenced work
@@ -496,7 +496,7 @@ set block
 : a block that sets the value or parameter for something on the screen—an input, an output, or anything being controlled in your program
 
 shell mode
-: a program mode in which you can type Python code into the Python shell (also called the bash or Python interactive interpreter), and the shell or interpreter shows you the result immediately
+: a program mode in which you can type Python code into the Python shell (also called the Python interactive interpreter), and the shell or interpreter shows you the result immediately
 
 skeleton code
 : a program that has many missing pieces to be filled in. Often, skeleton code contains comments to inform the programmer what kind of code needs to go where so others can modify it for their own needs.
@@ -541,7 +541,7 @@ template
 : something that establishes a pattern. HTML, CSS, and Django view templates are examples of templates that help programmers organize code that is used repeatedly and provides a common structure for all designers to align to.
 
 terminal
-: the area in Cloud9 where you can write and save
+: a text window where you type commands for the computer to run, such as `git` or `python`. In VS Code, open one with **Terminal → New Terminal**.
 
 tracer round program
 : a highly abstracted program that implements only the most basic and necessary structures without implementing the more specific details
