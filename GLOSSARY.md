@@ -142,7 +142,7 @@ computer system
 : a group of computing devices and programs working together for a common purpose
 
 concatenation
-: a joining together of separate items—without changing them—into one place. For example, the concatenation of two strings such as "Hello" and "world!" would return "Hello world!"
+: a joining together of separate items—without changing them—into one place. For example, the concatenation of two strings such as "Hello " (with a space) and "world!" would return "Hello world!"
 
 conditional expression
 : a comparison, usually in a while or if statement, that evaluates to a Boolean value of true or false
@@ -394,7 +394,7 @@ parameter
 : a special kind of variable defined in a function to receive specific information. "Parameter" and "argument" are often used interchangeably. In this course, we will use the term "argument."
 
 pi
-: the ratio of a circle's circumference to its diameter: 3.14
+: the ratio of a circle's circumference to its diameter, about 3.14
 
 PLTW Developer's Journal
 : a physical location where you can document, store, draft, and reference your development process. Artifacts you might capture in your PLTW Developer's Journal include new vocabulary, new functions, pseudocode, flowcharts, project planning notes, and brainstorming ideas.
