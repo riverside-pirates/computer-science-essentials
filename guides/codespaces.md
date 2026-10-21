@@ -1,9 +1,9 @@
-# Working without your laptop (Codespaces)
+# Working in a codespace
 
-Your school laptop is home base. If you don't have it (it's broken, at school,
-or you're on a family computer), you can still work: a **codespace** is VS Code
-running in your browser on a GitHub computer, with your repository already on
-it. This works for every assignment.
+A **codespace** is VS Code running in your browser on a GitHub computer, with
+your repository already on it. Days 1 and 2 use one. After that, your school
+laptop is home base, but a codespace works for every assignment when you don't
+have your laptop (it's broken, at school, or you're on a family computer).
 
 ## Open one
 
@@ -12,14 +12,15 @@ it. This works for every assignment.
    [classroom50.org](https://classroom50.org) under **My submission**).
 2. Click the green **Code** button, choose the **Codespaces** tab, and click
    **Create codespace on main**. It takes about a minute to start.
-3. In its terminal, install the test runner once:
+Everything works the same as on a laptop: the steps, the tests, **Source
+Control**, and **Sync Changes**. The test runner is installed for you.
 
-   ```sh
-   python -m pip install pytest
-   ```
+If `python -m pytest -q` says `No module named pytest`, the setup didn't
+finish. Paste this once:
 
-Everything else works the same: the steps, the tests, **Source Control**, and
-**Sync Changes**.
+```sh
+python -m pip install pytest
+```
 
 ## Mind the quota
 

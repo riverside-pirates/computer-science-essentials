@@ -1,7 +1,8 @@
 # One-time setup
 
-Do this **once** on your laptop, then never again. When you're done, use your
-browser's **Back** button to return to your assignment.
+Do this **once** on your laptop, then never again. The Day 2 assignment sends
+you here in its last step. When you're done, use your browser's **Back**
+button to return to your assignment.
 
 ## Meet the terminal
 
