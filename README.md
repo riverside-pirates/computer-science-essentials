@@ -7,6 +7,8 @@
 > **riverside-pirates**. Accept it, then come back here.
 >
 > 🧭 Stuck on setup or a tool? See the [student guides](guides/).
+>
+> 📖 Don't know a word? Press `Ctrl+F` in the [glossary](guides/glossary.md).
 
 Here's the a list of everyone's pirate pseudonyms and catch phrase:
 
