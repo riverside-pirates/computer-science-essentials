@@ -575,8 +575,8 @@ people get access.
 **variable block** — App Inventor's blocks for variables: `get`, `set`, and
 the `initialize` blocks.
 
-**virtual machine** — a computer simulated in software. Your codespace is
-one.
+**virtual machine** — a computer simulated in software. Your codespace runs
+on one.
 
 **wavefront algorithm** — an AI method for finding the best path through a
 space.
