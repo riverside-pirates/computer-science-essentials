@@ -31,3 +31,9 @@ Here's the a list of everyone's pirate pseudonyms and catch phrase:
 
 ## 4th Period Section
 * [Liam C] _"Arr, Matey..."_
+
+## For teachers: `images/pirate-ship`
+
+The shared Codespaces image for assignment templates (Python 3.12, pytest, gh,
+VS Code settings), published as `ghcr.io/riverside-pirates/pirate-ship:<term>`.
+Make a new tag each term. Never move a tag mid-unit.

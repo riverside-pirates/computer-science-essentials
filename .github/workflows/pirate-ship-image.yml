@@ -1,0 +1,30 @@
+name: pirate-ship image
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'images/pirate-ship/**'
+      - '.github/workflows/pirate-ship-image.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: docker/login-action@v4
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - uses: devcontainers/ci@v0.3
+        with:
+          subFolder: images/pirate-ship
+          imageName: ghcr.io/riverside-pirates/pirate-ship
+          # New tag each term. Never move a tag mid-unit.
+          imageTag: fall-2026
+          push: always

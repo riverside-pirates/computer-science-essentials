@@ -1,0 +1,22 @@
+{
+  "name": "pirate ship",
+  // Python 3.12 with pytest baked in. See Dockerfile.
+  "build": { "dockerfile": "Dockerfile" },
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  // Saved into the image label, so templates that use the image get these too.
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"],
+      "settings": {
+        // Tests read the saved file, so save for students.
+        "files.autoSave": "afterDelay",
+        // Skip the "stage all changes?" and "sync?" pop-ups.
+        "git.enableSmartCommit": true,
+        "git.confirmSync": false,
+        "git.autofetch": true
+      }
+    }
+  }
+}
