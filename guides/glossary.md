@@ -319,8 +319,8 @@ exist yet.
 useful.
 
 **input** — data given to a program while it runs: clicks, keys, touches,
-sensor readings (light, distance, touch, like App Inventor's Sensors
-drawer), arguments.
+sensor readings, arguments. A sensor detects light, distance, or motion,
+like the ones in App Inventor's Sensors drawer.
 
 **integer** — a whole number, no decimal: `42`.
 
