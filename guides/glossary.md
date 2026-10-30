@@ -112,7 +112,8 @@ version of the `result` socket.
 **string** — text in quotes: `"Hello "`. A piece of one is a substring.
 
 **variable** — a name that stores a value: `speed = 3`. Like
-`initialize global speed to 3`, in one line.
+`initialize global speed to 3`, in one line. The `get speed` block is just
+`speed`, and `set speed to` becomes `speed = ...`.
 
 ## Everything else, A–Z
 
@@ -125,13 +126,8 @@ abilities.
 **accumulator** — a variable that keeps a running total: set it up before a
 loop, add to it inside the loop, use the total after.
 
-**aggregator** — a variable that gathers values together into one, like an
-accumulator for data.
-
 **algorithm** — a set of steps that accomplishes a task. You can write one
 as code, pseudocode, a flowchart, or plain language.
-
-**allow list** — the list of websites school IT lets through the filter.
 
 **app** — a software application, especially one you download to a phone or
 tablet.
@@ -172,11 +168,9 @@ seen yet, replacing it whenever a better one shows up.
 together.
 
 **block (in App Inventor)** — a puzzle piece you snap into a program instead
-of typing. A language made of these is a block-based (visual) programming
-language.
-
-**blog** — a website of posts in time order, usually informal. Short for
-"web log."
+of typing. Blocks control the components you placed in the Design view,
+like Button and Label. A language made of these is a block-based (visual)
+programming language.
 
 **Boolean expression** — a test that comes out `True` or `False`, like
 `x > 0`.
@@ -191,8 +185,6 @@ usually chosen by an `if`. (For Git branches, see the voyage words above.)
 procedure in another part.
 
 **brute force attack** — guessing passwords over and over until one works.
-
-**bulletin board** — a web app where many people post and read messages.
 
 **CamelCase** — naming style that marks new words with capitals instead of
 spaces: `StudentProject` or `studentProject`.
@@ -215,22 +207,11 @@ of your own, to store and process data.
 **collaboration** — two or more people working toward one goal by sharing
 the work and the ideas.
 
-**color code** — a set of color signatures in a fixed order that a vision
-system can recognize.
-
-**color saturation** — how intense a color is, from vivid to muted.
-
-**color signature** — a range of color values a vision system treats as the
-same color.
-
 **compiler** — a program that translates human-readable code into the 0s
 and 1s a computer actually runs.
 
 **complex conditional** — one `if` test built from several conditions,
 joined with `and`, `or`, or `not`.
-
-**component** — a building block of an App Inventor app from the Design
-view: Button, Canvas, Label, Slider, and friends.
 
 **computer science** — solving problems and building things with the power
 of a computer: programming, algorithms, data, graphics, and more.
@@ -251,15 +232,9 @@ is a chained conditional. The test itself is a conditional expression.
 **counting loop** — a loop that counts up or down with each pass, often to
 control how many times it runs.
 
-**crowdsource** — gather information or work from many people over the
-internet.
-
 **data type** — what kind of data a value is: string, integer, float,
 Boolean. The type limits what values are allowed. In a variable, it's the
 kind of data stored there.
-
-**dead reckoning** — navigating by a fixed plan from a known start to a
-known end, used when there's no sensor data.
 
 **debug** — find the errors (bugs) in a program and fix them.
 
@@ -280,9 +255,6 @@ ending (`.com`, `.org`, `.edu`, `.gov`) is the top-level domain.
 
 **dynamic** — describes a program whose behavior changes with its inputs
 and conditions.
-
-**endpoint URL** — the specific URL where a program talks to a web server
-to read or change data.
 
 **equality** — testing whether two values are the same, with `==`. `8 == 8`
 is `True`.
@@ -313,11 +285,6 @@ it can only hold so many decimal places accurately.
 **for loop** — a loop that runs a known number of times, like once per item
 in a list. (Compare the while loop, which runs as long as a condition holds.)
 
-**formatting character** — a placeholder that puts a value inside a string,
-like `%d` for an integer. Python's modern way is the f-string.
-
-**gallery** — a display of images.
-
 **generative AI** — AI that learns patterns from existing data and uses
 them to produce new text, images, music, or code.
 
@@ -339,16 +306,11 @@ near the 0s and 1s the machine runs.)
 **import statement** — a line that pulls someone else's code (a module or
 library) into your program: `import math`.
 
-**inclusive statement** — a range that includes its endpoints: "1–3" means
-1, 2, and 3.
-
 **increment** — increase a value, usually by 1. A loop that counts events
 this way is an incremental counter.
 
 **index** — an item's position number in a list. Python counts from 0; App
 Inventor counts from 1.
-
-**index page** — the default page a website sends the browser to.
 
 **initialize** — give a variable its first value. Before that, it doesn't
 exist yet.
@@ -357,7 +319,8 @@ exist yet.
 useful.
 
 **input** — data given to a program while it runs: clicks, keys, touches,
-sensor readings, arguments.
+sensor readings, arguments. A sensor detects light, distance, or motion,
+like the ones in App Inventor's Sensors drawer.
 
 **integer** — a whole number, no decimal: `42`.
 
@@ -372,8 +335,6 @@ run one at a time, without compiling the whole program first.
 **list** — an ordered collection of items. Each item (a list element) sits
 at a position called its index and can be any data type.
 
-**local database** — structured storage kept on the device itself.
-
 **local variable** — a variable that exists only inside one part of the
 program, like inside one function. (Compare global variable.)
 
@@ -386,13 +347,8 @@ values.
 **loop** — a structure that repeats instructions. Each repeat is an
 iteration, usually controlled by a condition.
 
-**machine vision** — making decisions in code from camera images.
-
 **method** — a function that belongs to an object, called with a dot:
 `crew.append("Polly")`.
-
-**migration** — a Django command that applies changes to a website's
-database.
 
 **mobile application** — an app that runs on a device you carry.
 
@@ -405,14 +361,8 @@ simply, so one piece can change without rewriting the rest.
 **natural language** — the language people speak with each other, as
 opposed to a programming language.
 
-**navigation control** — App Inventor WebViewer actions like going back or
-to the home page.
-
 **nesting** — putting one structure inside another: a loop in a loop, an
 `if` in an `if`.
-
-**notifier component** — the App Inventor component that pops up a message
-to the user.
 
 **object** — one specific thing made from a class, with its own attribute
 values, able to run its class's methods.
@@ -437,16 +387,10 @@ Your laptops run Windows 11; Ubuntu is a free OS your codespace runs.
 
 **output** — what a program produces: text, graphics, sound, actions.
 
-**packaged app** — an app compiled into its final installable form, with
-the code sealed from editing.
-
 **pair programming** — two people, one keyboard: the driver types, the
 navigator directs, and you switch often.
 
 **pi** — the ratio of a circle's circumference to its diameter, about 3.14.
-
-**POST** — the HTTP method for sending data that changes something on a
-server, like submitting a comment.
 
 **prepend** — add to the beginning. (Compare append.)
 
@@ -461,7 +405,8 @@ what Python calls a function. Using one while only knowing *what* it does,
 not *how*, is procedural abstraction.
 
 **processor** — the computer chip that does the computing: it takes input
-data in and sends results out.
+data in and sends results out. It's built from billions of tiny on/off
+switches called transistors.
 
 **professional** — behaving, dressing, and communicating in a way that
 respects everyone in the room.
@@ -505,45 +450,21 @@ requirements; each sprint has its own small-task list.
 privately, then all reveal at once, so nobody anchors on the first number
 said aloud.
 
-**Secure Shell (SSH)** — a protocol for securely sending data between
-computers.
-
-**sensor** — a device that detects something in the world (light, distance,
-touch) and reports it to a program.
-
 **server** — a computer that many users share over a network, holding
 files, apps, or databases. GitHub runs on servers.
-
-**set block** — the App Inventor block that sets a value for something on
-the screen.
 
 **skeleton code** — a program with pieces deliberately missing for you to
 fill in, usually with comments marking where.
 
 **statement** — the smallest runnable piece of code, usually one line.
 
-**Structured Query Language (SQL)** — the standard language for working
-with databases.
-
 **substring** — a piece of a string.
 
 **syntax** — a language's rules for what counts as correctly written code:
 grammar for programs.
 
-**tag** — a keyword in angle brackets that starts or ends a markup element,
-like `<h1>`.
-
 **team** — people with different strengths working toward one goal. Team
 norms are the working agreements they set for themselves.
-
-**template** — a pattern to build from, so one structure can be reused.
-HTML, CSS, and Django templates are examples.
-
-**tracer round program** — the barest working version of a program:
-structure first, details later.
-
-**transistor** — the physical switch inside a chip that holds a 0 or 1.
-Billions of them make a processor.
 
 **Turing Award** — the "Nobel Prize of Computing," given yearly for major
 contributions to computer science. Named for Alan Turing (1912–1954).
@@ -565,21 +486,12 @@ one resource on the internet.
 checking with them: a user story describes one thing they need, and
 developers build those in priority order.
 
-**user credentialing system** — accounts and sign-ins, so only the right
-people get access.
-
 **user interface** — the part of a program a user sees and interacts with.
 
 **value** — a piece of data a program can store or work with.
 
-**variable block** — App Inventor's blocks for variables: `get`, `set`, and
-the `initialize` blocks.
-
 **virtual machine** — a computer simulated in software. Your codespace runs
 on one.
-
-**wavefront algorithm** — an AI method for finding the best path through a
-space.
 
 **while loop** — a repeating `if`: it keeps running its block as long as
 its condition stays `True`.
