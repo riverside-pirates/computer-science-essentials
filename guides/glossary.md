@@ -18,8 +18,8 @@ request to merge it into `main`. (For the other meaning, see
 **clone** — copy a repository from GitHub onto your computer so you can work
 on it.
 
-**codespace** — VS Code running in your browser on a GitHub computer, for
-when you don't have your laptop. See [the Codespaces guide](codespaces.md).
+**codespace** — VS Code running in your browser on a GitHub computer,
+where you do every assignment. See [the Codespaces guide](codespaces.md).
 
 **commit** — a saved snapshot of your changes, with a short note saying what
 you did (like `Calculate rations`). Your commits are the record of your work.
@@ -28,8 +28,8 @@ you did (like `Calculate rations`). Your commits are the record of your work.
 comments on your work. You read and reply there; you never merge it.
 
 **GitHub** — the website where your repositories live and where work is
-turned in. Your laptop has a copy of your repository; GitHub has the one
-that counts.
+turned in. Your codespace has a copy of your repository; GitHub has the
+one that counts.
 
 **main** — the home branch of your repository. The autograder grades only
 `main`, so your work is submitted when it lands there.
@@ -44,12 +44,12 @@ to choose. VS Code shows both versions; pick, then commit. Nothing is lost.
 page where a partner or teacher can comment and click **Approve**. In
 git-03, each partner approves the other's PR.
 
-**push** — send your commits from your laptop up to GitHub. In VS Code,
+**push** — send your commits from your codespace up to GitHub. In VS Code,
 click **Sync Changes**. Until you push, GitHub and the autograder can't see
 your work.
 
 **repository (repo)** — one project's folder plus its entire history, on
-GitHub and on your laptop.
+GitHub and in your codespace.
 
 **Source Control** — the VS Code panel (the branching icon on the left)
 where you type a commit message, commit, and click **Sync Changes**.

@@ -1,49 +1,46 @@
-# Working without your laptop (Codespaces)
+# Your codespace
 
-Your school laptop is home base. If you don't have it (it's broken, at school,
-or you're on a family computer), you can still work: a **codespace** is VS Code
-running in your browser on a GitHub computer, with your repository already on
-it. This works for every assignment.
+A **codespace** is VS Code running in your browser on a GitHub computer, with
+your repository already on it. It's where you do every assignment. Nothing to
+install: the tests and tools are ready when it opens.
 
-## Open one
+## ⚓ Open it
 
-1. Sign in to [github.com](https://github.com) with your school GitHub account
-   and open your assignment repository (its link is on
-   [classroom50.org](https://classroom50.org) under **My submission**).
-2. Click the green **Code** button, choose the **Codespaces** tab, and click
-   **Create codespace on main**. It takes about a minute to start.
-3. In its terminal, install the test runner once:
+1. On [classroom50.org](https://classroom50.org), open your assignment and
+   click **My submission**. (Haven't accepted yet? Click **Accept**, then
+   **Open repository**, and skip to 3.)
+2. Click the link to your repository. It opens on GitHub.
+3. Click the green **Code** button, choose the **Codespaces** tab, and click
+   **Create codespace on main**. Wait a minute or two. VS Code opens in your
+   browser with your files on the left.
 
-   ```sh
-   python -m pip install pytest
-   ```
+✅ **Checkpoint:** you can see your files on the left.
 
-Everything else works the same: the steps, the tests, **Source Control**, and
-**Sync Changes**.
+> [!TIP]
+> Coming back later? Click **Code → Codespaces** again and pick the codespace
+> that's already there. Don't make a new one.
 
-## Mind the quota
+## 🚪 Before you leave
 
-Codespaces are free up to a limit, and the limit is **yours**, not the
-school's: a free GitHub account gets **120 core-hours a month**. The smallest
-codespace uses 2 cores, so that's about **60 hours of running time**. Stopped
-codespaces still use some of your monthly storage.
+1. Click **Sync Changes** in **Source Control**. Now your work is safe on
+   GitHub.
+2. Click the **Codespaces** menu in the bottom-left corner and choose
+   **Stop Current Codespace**.
 
-- **Stop it when you're done.** Click the **Codespaces** menu in the bottom-left
-  corner and choose **Stop Current Codespace**. (It also stops itself after 30
-  minutes of inactivity, but don't count on that.)
+✅ **Checkpoint:** your newest commit shows on GitHub.
+
+## Codespace hours
+
+Codespaces run on a limited number of hours. They might come from your own
+free GitHub account or from the school, and that can change or run out
+during the year. So treat every hour like treasure.
+
+- **Stop it when you're done.** It also stops itself after a while of doing
+  nothing, but don't count on that.
+- **One codespace per assignment.** Reopen the one that's already there.
 - **Delete it when the assignment is done.** On github.com, click your profile
-  picture → **Your codespaces** → **⋯** → **Delete**.
-- **One codespace per assignment.** Reopen the same one instead of creating a
-  new one.
-- **Keep the default machine size.** A bigger machine burns the quota faster.
-- **Check your usage** at github.com → profile picture → **Settings** →
-  **Billing and licensing** → **Usage**.
+  picture → **Your codespaces** → **⋯** → **Delete**. Sync first!
+- **Keep the default machine size.** A bigger machine burns hours faster.
 
-If you run out, the codespace won't start until next month. Your work is safe
-on GitHub as long as you clicked **Sync Changes**.
-
-## Switching between laptop and codespace
-
-Git only knows about work you've **synced**. Before you switch computers, click
-**Sync Changes**. When you sit down at the other one, click **Sync Changes**
-again before you edit anything.
+Codespace won't start? Your work is safe on GitHub as long as you clicked
+**Sync Changes**. Tell your teacher.
