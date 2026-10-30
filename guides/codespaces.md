@@ -29,21 +29,18 @@ install: the tests and tools are ready when it opens.
 
 ✅ **Checkpoint:** your newest commit shows on GitHub.
 
-## Mind the quota
+## Codespace hours
 
-Codespaces are free up to a limit, and the limit is **yours**, not the
-school's: a free GitHub account gets **120 core-hours a month**. The smallest
-codespace uses 2 cores, so that's about **60 hours of running time**. Stopped
-codespaces still use some of your monthly storage.
+Codespaces run on a limited number of hours. They might come from your own
+free GitHub account or from the school, and that can change or run out
+during the year. So treat every hour like treasure.
 
-- **Stop it when you're done.** It also stops itself after 30 minutes of doing
+- **Stop it when you're done.** It also stops itself after a while of doing
   nothing, but don't count on that.
 - **One codespace per assignment.** Reopen the one that's already there.
 - **Delete it when the assignment is done.** On github.com, click your profile
   picture → **Your codespaces** → **⋯** → **Delete**. Sync first!
-- **Keep the default machine size.** A bigger machine burns the quota faster.
-- **Check your usage** at github.com → profile picture → **Settings** →
-  **Billing and licensing** → **Usage**.
+- **Keep the default machine size.** A bigger machine burns hours faster.
 
-If you run out, your codespace won't start until next month. Tell your
-teacher. Your work is safe on GitHub as long as you clicked **Sync Changes**.
+Codespace won't start? Your work is safe on GitHub as long as you clicked
+**Sync Changes**. Tell your teacher.
