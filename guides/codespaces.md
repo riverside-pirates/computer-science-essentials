@@ -29,7 +29,7 @@ install: the tests and tools are ready when it opens.
 
 ✅ **Checkpoint:** your newest commit shows on GitHub.
 
-## 🪙 Mind the quota
+## Mind the quota
 
 Codespaces are free up to a limit, and the limit is **yours**, not the
 school's: a free GitHub account gets **120 core-hours a month**. The smallest
